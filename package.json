@@ -2,10 +2,13 @@
   "name": "gameforge-pro-setup-builder",
   "version": "1.0.0",
   "private": true,
+  "description": "GameForge - Professional Gaming Setup Builder with AI-powered recommendations",
+  "author": "Be_A_Learner",
+  "keywords": ["gaming", "pc-builder", "react", "tailwind", "gaming-setup"],
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^7.7.0",
+    "react-router-dom": "^6.26.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -13,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
   },
-  "author": "Pranay Gupta",
   "bugs": {
     "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
   },
